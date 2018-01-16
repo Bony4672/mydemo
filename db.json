@@ -1,8 +1,5 @@
 {
-  "user_name": [
-    { "id": 1, "title": "bony" }
-  ],
-  "password": [
-    { "id": 1, "body": "bony" }
+  [
+  "user_name": bony, "password": bony
   ]
 }
