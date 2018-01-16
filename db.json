@@ -1,16 +1,9 @@
 {
-    "user": [
+    "user":
     {
     "user_name": "bony",
     "password": "bony",
     "userId": 1,
     "id": 1
-},
-           {
-    "user_name": "asdf",
-    "password": "asdf",
-    "userId": 2,
-    "id": 2
 }
-    ]
 }
