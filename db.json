@@ -4,15 +4,15 @@
     {
     "userId": 1,
     "id": 1,
-    "user_name": "bony",
+    "username": "bony",
     "password": "bony"
     
 },
     {
     "userId": 1,
     "id": 2,
-    "user_name": "bony",
-    "password": "bony"
+    "username": "admin",
+    "password": "admin"
 }
 ]
 }
